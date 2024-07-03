@@ -1,0 +1,14 @@
+/Users/alexander/DevelopmentTesting/bin/Debug/net8.0/DevelopmentTesting
+/Users/alexander/DevelopmentTesting/bin/Debug/net8.0/DevelopmentTesting.deps.json
+/Users/alexander/DevelopmentTesting/bin/Debug/net8.0/DevelopmentTesting.runtimeconfig.json
+/Users/alexander/DevelopmentTesting/bin/Debug/net8.0/DevelopmentTesting.dll
+/Users/alexander/DevelopmentTesting/bin/Debug/net8.0/DevelopmentTesting.pdb
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/DevelopmentTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/DevelopmentTesting.AssemblyInfoInputs.cache
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/DevelopmentTesting.AssemblyInfo.cs
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/DevelopmentTesting.csproj.CoreCompileInputs.cache
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/DevelopmentTesting.dll
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/refint/DevelopmentTesting.dll
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/DevelopmentTesting.pdb
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/DevelopmentTesting.genruntimeconfig.cache
+/Users/alexander/DevelopmentTesting/obj/Debug/net8.0/ref/DevelopmentTesting.dll
